@@ -5,7 +5,7 @@ this website, which usually compiles!
 
 ---
 
-my email is tali.auster@ the big google server
+my email is taliauster@ the big google server
 
 ---
 
