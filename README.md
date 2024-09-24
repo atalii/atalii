@@ -1,12 +1,8 @@
 # hi!
 
-my name is tali, and my pronouns are they/them. i sometimes push nonsense to
-this website, which usually compiles!
+My name is Tali, and I use they/them pronouns. 
 
 ---
 
-my email is taliauster@ the big google server
-
----
-
-haskell, c, ada, and rust are pretty nice
+You can reach me most consistently at me@tali.network, though I'll erratically
+check @atalii@matrix.org.
